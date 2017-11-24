@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/xiayang075/Documents/项目/github/In-depthStudy/Library/AnimatedSvgView/src/main/assets"/><source path="/Users/xiayang075/Documents/项目/github/In-depthStudy/Library/AnimatedSvgView/bin/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/xiayang075/Documents/项目/github/In-depthStudy/Library/AnimatedSvgView/src/debug/assets"/></dataSet></merger>

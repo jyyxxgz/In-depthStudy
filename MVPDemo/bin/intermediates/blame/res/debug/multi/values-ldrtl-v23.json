@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/xiayang075/Documents/项目/github/In-depthStudy/MVPDemo/bin/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v23/values-ldrtl-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/xiayang075/.android/build-cache/b0e50eaf554167d4d4d5d588b17162907af789a5/output/res/values-ldrtl-v23/values-ldrtl-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 112,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    }
+]

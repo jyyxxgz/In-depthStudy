@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/xiayang075/Documents/项目/github/In-depthStudy/MVPDemo/bin/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/xiayang075/.android/build-cache/b0e50eaf554167d4d4d5d588b17162907af789a5/output/res/values-w360dp/values-w360dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 54,
+                        "endOffset": 282
+                    }
+                }
+            }
+        ]
+    }
+]

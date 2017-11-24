@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_share_view.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_share_view.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/fragment_rxjava.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/fragment_rxjava.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/alert_dialog.xml",
+        "source": "/Users/xiayang075/.android/build-cache/429b42aa6a1e4f7164fbcd93e910b31285687d47/output/res/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_status_bar.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_status_bar.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_dialog_input.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_dialog_input.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/drawer_slide_header_layout.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/drawer_slide_header_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_stub_titleframe.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_fresco.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_fresco.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_okhttp.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_okhttp.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/dialog_common_layout.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/dialog_common_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_cubic_bezier.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_cubic_bezier.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_main_content.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_main_content.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_amap.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_amap.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/floating_search_layout.xml",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/layout/floating_search_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_rxjava2.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_rxjava2.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_shape_view.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_shape_view.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_dialog_basic.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_listitem.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_multithread.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_multithread.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/fragment_droidplugin.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/fragment_droidplugin.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_shoppingview.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_shoppingview.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/fragment_status_bar.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/fragment_status_bar.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_bezier.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_bezier.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/item_apk.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/item_apk.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/fragment_network.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/fragment_network.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_crash.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_crash.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_reflection.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_reflection.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_thread.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_thread.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/fragment_image.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/fragment_image.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/search_suggestion_item.xml",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/layout/search_suggestion_item.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_rxjava1.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_rxjava1.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/fragment_map.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/fragment_map.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/fragment_customview.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/fragment_customview.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_multitheme.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_multitheme.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_circle_text_view.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_circle_text_view.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/overflow_action_item_layout.xml",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/layout/overflow_action_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/search_query_section.xml",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/layout/search_query_section.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_retrofit.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_retrofit.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/fragment_intent_service.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/fragment_intent_service.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/md_dialog_list.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/view_choiceview_layout.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/view_choiceview_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/refresh_footer.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/refresh_footer.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_quadratic_bezier.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_quadratic_bezier.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/ui_share.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/ui_share.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/action_item_layout.xml",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/layout/action_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_annotation.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_annotation.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_marquee_view.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_marquee_view.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/activity_thread_pool.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/activity_thread_pool.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/app_toolbar.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/app_toolbar.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/ui_view_full_mask_layout.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/layout/ui_view_full_mask_layout.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout/search_suggestions_section.xml",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/layout/search_suggestions_section.xml"
+    }
+]

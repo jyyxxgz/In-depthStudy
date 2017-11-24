@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout-v14/md_stub_progress.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    }
+]

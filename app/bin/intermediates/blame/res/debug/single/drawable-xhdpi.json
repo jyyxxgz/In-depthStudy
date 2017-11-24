@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_check_box_pressed.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_check_box_pressed.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_arrow_back_black_24dp.png",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/drawable-xhdpi/ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/location_marker.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/location_marker.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_content_send.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_content_send.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_image_recyclerview.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_image_recyclerview.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_friend_sel.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_friend_sel.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_white.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_white.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_qzone_sel.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_qzone_sel.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_more_vert_black_24dp.png",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/drawable-xhdpi/ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_friend.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_friend.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_clear_black_24dp.png",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/drawable-xhdpi/ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_wx_sel.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_wx_sel.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_more_black.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_more_black.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_history_black_24dp.png",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/drawable-xhdpi/ic_history_black_24dp.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_mic_black_24dp.png",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/drawable-xhdpi/ic_mic_black_24dp.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_kitchen_detail_minus.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_kitchen_detail_minus.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_invert_colors_black_24dp.png",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/drawable-xhdpi/ic_invert_colors_black_24dp.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_loudspeaker.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_loudspeaker.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_multi_thread.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_multi_thread.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_qq.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_qq.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/location_move_center.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/location_move_center.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_image_util.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_image_util.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_weibo_sel.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_weibo_sel.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_wx.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_wx.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_pw_back.9.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_pw_back.9.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_qq_sel.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_qq_sel.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_qzone.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_qzone.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_kitchen_detail_add.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_kitchen_detail_add.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_image_photo.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_image_photo.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_check_box_normal.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_check_box_normal.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/it_code_human.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/it_code_human.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_kitchen_detail_add_back.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_kitchen_detail_add_back.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_keyboard_voice_black_24dp.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_keyboard_voice_black_24dp.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_my_location_black_24dp.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_my_location_black_24dp.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_red_loudspeaker.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_red_loudspeaker.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_search_black_24dp.png",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/drawable-xhdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/location_center.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/location_center.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_kitchen_detail_minus_back.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_kitchen_detail_minus_back.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_my_android.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_my_android.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/hj_share_weibo.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/hj_share_weibo.png"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-xhdpi/ic_hardware_computer.png",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/drawable-xhdpi/ic_hardware_computer.png"
+    }
+]

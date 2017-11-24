@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/libs/AMap_android_API_2DMap_Lib_V2.7.0_20151124.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4165e2d2b127e12033f894513bb85fe4ac66c610">
+        <dex dex="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/transforms/dex/debug/folders/1000/2/AMap_android_API_2DMap_Lib_V2.7.0_20151124_96938ea6e7c53b3d3b1a55d35a3c48938d93dc97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/libs/AMap_Location_v2.0.0_20151117.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbd0189f0d86bbfa558b2c2344ea3f3932a2ad35">
+        <dex dex="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_v2.0.0_20151117_6a3ba77e2316c9f994029887e9f7ca83572e127e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6cbb73a5903e7d1593c37078cba10c9af0db38b4">
+        <dex dex="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7a2a55b6aa8e826bd14d8ff14a452d26297b325c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8af5140ecf311a3db30de98e866e3d45df2e9469/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/libs/fastjson-1.2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a5c721e8ea1e18854272879d6ed2770d25feb342">
+        <dex dex="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/transforms/dex/debug/folders/1000/2/fastjson-1.2.7_2ea757eaf04c9507c0569658f1c4ae41ee465007/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/libs/dexmaker-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d5045fefa6d286c5ddf733e321fe6e5e632efb6">
+        <dex dex="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/transforms/dex/debug/folders/1000/2/dexmaker-1.2_10ccbe86af833cba801d65d02f62ed685a2c887c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/libs/AMap_Services_V2.7.0_20151125.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7eac53aff3958c7447c434fe376c8c978a2f9c5c">
+        <dex dex="/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/transforms/dex/debug/folders/1000/2/AMap_Services_V2.7.0_20151125_520a8b540817f86037d67f1cef5d8da923b90686/classes.dex" />
+    </item>
+
+</items>

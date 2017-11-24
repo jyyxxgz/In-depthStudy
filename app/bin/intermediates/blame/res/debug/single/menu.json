@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/menu/item_pop_menu.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/menu/item_pop_menu.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/menu/menu_reflection.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/menu/menu_reflection.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/menu/menu_thread_pool.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/menu/menu_thread_pool.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/menu/drawer_slide_right_menu.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/menu/drawer_slide_right_menu.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/menu/drawer_slide_left_menu.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/menu/drawer_slide_left_menu.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/menu/menu_amap.xml",
+        "source": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/src/main/res/menu/menu_amap.xml"
+    }
+]

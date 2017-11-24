@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/md_btn_shape.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/drawable-v21/md_btn_shape.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple_dark.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/drawable-v21/md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/oval_btn_selector.xml",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/drawable-v21/oval_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/suggestion_item_background.xml",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/drawable-v21/suggestion_item_background.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple.xml",
+        "source": "/Users/xiayang075/.android/build-cache/6e64fa1dbd54cc69e545b06903ffe2a6e5a333ba/output/res/drawable-v21/md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/rect_btn_selector.xml",
+        "source": "/Users/xiayang075/.android/build-cache/e70152ff090dec6770e8b9a8bc2155be5513aa10/output/res/drawable-v21/rect_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/xiayang075/.android/build-cache/8413f0d4fa2895a4ca71caa4abe1292f061e3580/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/xiayang075/Documents/项目/github/In-depthStudy/app/bin/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/xiayang075/.android/build-cache/f296b133de9a9c1c9a237a6e2abe62c6f845e428/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
