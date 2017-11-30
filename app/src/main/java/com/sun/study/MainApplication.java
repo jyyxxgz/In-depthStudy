@@ -31,6 +31,8 @@ public class MainApplication extends Application {
         FrescoUtil.init(this);
         CrashHandler.getInstance().init(this);
 //        PluginHelper.getInstance().applicationOnCreate(getBaseContext());
+
+
         SkinMaterialManager.init(this);
         SkinCompatManager.init(this).loadSkin();
     }
