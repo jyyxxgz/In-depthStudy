@@ -40,11 +40,19 @@ public class MainApplication extends Application {
         SkinCompatManager.init(this).loadSkin();
 
         Log.e("MainApplicaiton", "test merge");
+
+        testRebase();
     }
 
     public static MainApplication getInstance() {
         return instance;
     }
+
+
+    public void testRebase(){
+
+    }
+
 
     @Override
     public void onLowMemory() {
