@@ -34,6 +34,8 @@ public class MainApplication extends Application {
 
 
         SkinMaterialManager.init(this);
+
+
         SkinCompatManager.init(this).loadSkin();
     }
 
