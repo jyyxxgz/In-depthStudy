@@ -3,6 +3,7 @@ package com.sun.study;
 import android.app.Application;
 import android.content.Context;
 import android.support.multidex.MultiDex;
+import android.util.Log;
 
 import com.morgoo.droidplugin.PluginHelper;
 import com.sun.study.framework.exception.CrashHandler;
@@ -37,6 +38,8 @@ public class MainApplication extends Application {
 
 
         SkinCompatManager.init(this).loadSkin();
+
+        Log.e("MainApplicaiton", "test merge");
     }
 
     public static MainApplication getInstance() {
